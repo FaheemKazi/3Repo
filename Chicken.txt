@@ -1,0 +1,12 @@
+Chicken @Deccan Grill = 15.99$
+
+
+Mutton @Deccan Grill = 16.99$
+
+
+Tea @Deccan Grill = 2.00$
+
+
+Total = 35.00$
+ 
+
